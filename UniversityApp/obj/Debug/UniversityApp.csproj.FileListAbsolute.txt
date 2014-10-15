@@ -1,0 +1,9 @@
+c:\users\shibly\documents\visual studio 2013\Projects\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+c:\users\shibly\documents\visual studio 2013\Projects\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+c:\users\shibly\documents\visual studio 2013\Projects\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
+c:\users\shibly\documents\visual studio 2013\Projects\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+c:\users\shibly\documents\visual studio 2013\Projects\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Properties.Resources.resources
+c:\users\shibly\documents\visual studio 2013\Projects\UniversityApp\UniversityApp\obj\Debug\UniversityApp.StudentUI.resources
+c:\users\shibly\documents\visual studio 2013\Projects\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.GenerateResource.Cache
+c:\users\shibly\documents\visual studio 2013\Projects\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+c:\users\shibly\documents\visual studio 2013\Projects\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
